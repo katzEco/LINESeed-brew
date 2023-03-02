@@ -3,7 +3,7 @@ cask 'FIXME' do
   version "1.002"
   sha256 "3a06a1549f7c2cb4f9c9b9c99afe3701f7f6aa47039e6073ab18336dbc582436"
 
-  url "https://seed.line.me/"
+  url "https://github.com/katzEco/LINESeed-brew/raw/main/LINE_Seed_Sans_TH.zip"
   name "LINE Seed Sans TH"
   homepage "https://seed.line.me/"
 
